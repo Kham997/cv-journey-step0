@@ -1,1 +1,1 @@
-print ("Setup done!")
+print('Hello, Computer Vision!')
